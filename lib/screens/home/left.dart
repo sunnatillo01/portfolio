@@ -111,7 +111,7 @@ class _LeftScreenState extends State<LeftScreen> {
               children: [
                 IconButton(
                   onPressed: () {
-                    _launchUrl('https://github.com/CoderAltair');
+                    _launchUrl('https://github.com/sunnatillo01');
                   },
                   icon: Image.asset(
                     'assets/github.png',
@@ -120,7 +120,7 @@ class _LeftScreenState extends State<LeftScreen> {
                 ),
                 IconButton(
                   onPressed: () {
-                    _launchUrl('https://t.me/azizbek_kv');
+                    // _launchUrl('https://t.me/azizbek_kv');
                   },
                   icon: Image.asset(
                     'assets/telegram.png',
@@ -129,8 +129,8 @@ class _LeftScreenState extends State<LeftScreen> {
                 ),
                 IconButton(
                   onPressed: () {
-                    _launchUrl(
-                        'https://www.instagram.com/kodirov_azizbek7/?next=%2F');
+                    // _launchUrl(
+                    //     // 'https://www.instagram.com/kodirov_azizbek7/?next=%2F');
                   },
                   icon: Image.asset(
                     'assets/instagram.png',
@@ -139,8 +139,7 @@ class _LeftScreenState extends State<LeftScreen> {
                 ),
                 IconButton(
                   onPressed: () {
-                    _launchUrl(
-                        'https://www.linkedin.com/in/azizbek-qodirov-15692b25a/');
+                   
                   },
                   icon: Image.asset(
                     'assets/linkedin.png',
